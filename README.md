@@ -4,3 +4,4 @@ Aplicação para gestão de status de entregas de receita dos produtos de uma pi
 ## TODO:
 - [ ] Atualizar o eslint para a versão 9.x
 - [ ] Criar uma config do eslint utilizando a versão 9 para react e prettier
+- [ ] Migrar o uso de Toast do Sonner -> para o Sonner implementado no shadcn
