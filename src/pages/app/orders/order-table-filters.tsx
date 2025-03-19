@@ -35,7 +35,7 @@ export function OrderTableFilters() {
       </Button>
       <Button type="button" variant={'outline'} size={'xs'}>
         <X className="mr-2 h-4 w-4" />
-        Limpar filtro
+        Remover filtros
       </Button>
     </form>
   )
